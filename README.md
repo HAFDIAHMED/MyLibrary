@@ -1,3 +1,3 @@
 # MyLibrary
 
-# List of books recomended for reading about prime numbers
+# List of books recomended for reading 
